@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311777380381",
+    "project_id": "vajber-e0617",
+    "storage_bucket": "vajber-e0617.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311777380381:android:39707fad2c36e0725cdef4",
+        "android_client_info": {
+          "package_name": "com.example.vajber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311777380381-tnuci09btdgmcrr6c3159jgh05r1cdri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXovF0xAjZFpffrjN2x_3xPTSQcadtoDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311777380381-tnuci09btdgmcrr6c3159jgh05r1cdri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
